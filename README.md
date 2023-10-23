@@ -1,1 +1,3 @@
 # ShareQR
+
+using 'phpqrcode', 'MAMP'
